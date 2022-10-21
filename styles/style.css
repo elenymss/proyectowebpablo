@@ -7,7 +7,7 @@
      background-color: rgb(170, 48, 226);
      height: 10vh;
      display: flex;
-     justify-content: space-evenly;
+     justify-content: space-around;
 }
 .cuerpo{
     background-color: palevioletred;
