@@ -3,15 +3,21 @@
     padding: 0px;
     box-sizing: border-box;
 }
-header {
-     background-color: aqua;
+.encabezado {
+     background-color: rgb(170, 48, 226);
      height: 10vh;
+     display: flex;
+     justify-content: space-evenly;
 }
-main{
+.cuerpo{
     background-color: palevioletred;
     height: 80vh;
 }
-footer{
-    background-color: bisque;
+.pie-pagina{
+    background-color: rgb(107, 131, 209);
     height: 10vh;
+}
+.logo{
+    width: 20%;
+
 }
