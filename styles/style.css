@@ -4,22 +4,39 @@
     box-sizing: border-box;
 }
 .encabezado {
-     background-color: rgb(170, 48, 226);
+     background-color: black;
      height: 10vh;
      display: flex;
      justify-content: space-around;
+     color: white;
 }
 .cuerpo{
     background-color: palevioletred;
     height: 80vh;
+    width: 70%;
+    text-align: center;
+    
+
 }
 .pie-pagina{
-    background-color: rgb(107, 131, 209);
+    background-color: black;
     height: 10vh;
+    color: white;
 }
 .logo{
     width: 20%;
 }
 .menu{
     list-style: none;
+}
+.cont-div{
+    display: flex;
+    width: 95%;
+    margin: auto;
+}
+aside{
+    width: 30%;
+    background-color:gray;
+    min-height: 80vh;
+    text-align: center;
 }
