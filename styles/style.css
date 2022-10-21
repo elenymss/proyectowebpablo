@@ -19,5 +19,7 @@
 }
 .logo{
     width: 20%;
-
+}
+.menu{
+    list-style: none;
 }
